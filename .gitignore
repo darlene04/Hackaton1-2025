@@ -1,1 +1,95 @@
-#vacío por el momento
+# ================================
+# General OS and Editor files
+# ================================
+
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Editors (VS Code, Vim, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# ================================
+# Build and Dependency directories
+# ================================
+node_modules/
+dist/
+build/
+out/
+bin/
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.o
+*.out
+
+# ================================
+# Logs and databases
+# ================================
+*.log
+*.sqlite
+*.db
+*.dump
+
+# ================================
+# Environment files (secrets!)
+# ================================
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+*.key
+*.pem
+*.cert
+
+# ================================
+# Temporary and cache files
+# ================================
+*.tmp
+*.temp
+.cache/
+*.cache
+
+# ================================
+# Package manager files
+# ================================
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+*.gem
+*.pyc
+__pycache__/
+
+# ================================
+# Documentation and test outputs
+# ================================
+docs/_build/
+coverage/
+*.test
+*.spec
+junit.xml
+test-results.xml
+
+# ================================
+# Archives and binaries
+# ================================
+*.zip
+*.tar.gz
+*.7z
+*.dmg
+*.pkg
