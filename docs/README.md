@@ -2,10 +2,13 @@
 
 **Autores:**  
 👨‍💻 [@fdavilaventuro](https://github.com/fdavilaventuro)  
-👩‍💻 [@darlene04](https://github.com/darlene04)  
+
+
+👩‍💻  [@darlene04](https://github.com/darlene04)  
 👩‍💻 [@LetiziaTorres](https://github.com/LetiziaTorres)  
 👨‍💻 [@Crpaolo](https://github.com/Crpaolo)  
-
+### Darlene
+Hola, soy Darlene. Estoy trabajando en el proyecto Hackatón 1 y me gusta colaborar en equipo.
 ## Características principales ✨
 - ✅ **Evalúa expresiones completas** (ej: `5 + 3 * 2`)
 - ✅ **Borrado con 'c'** para limpiar la entrada
