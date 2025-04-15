@@ -3,7 +3,8 @@
 **Autores:**  
 👨‍💻 [@fdavilaventuro](https://github.com/fdavilaventuro)  
 Hola, soy Fabio y me alegra mucho estar aquí :D
-👩‍💻 [@darlene04](https://github.com/darlene04)  
+👩‍💻 [@darlene04](https://github.com/darlene04) 
+Darlene Escobar Hinojosa :Me gusta trabajar en equipo  
 👩‍💻 [@LetiziaTorres](https://github.com/LetiziaTorres)  
 Letizia Torres: Soy estudiante de Administración y Negocios Digitales.
 👨‍💻 [@Crpaolo](https://github.com/Crpaolo)
