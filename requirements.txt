@@ -1,0 +1,19 @@
+# requirements.txt for Python Calculator Project
+
+# Required for precise decimal arithmetic
+pydecimal==1.0.0
+
+# Testing framework (though usually comes with Python)
+unittest2==1.1.0
+
+# For potential future test enhancements
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Development tools (optional)
+black==23.9.1
+flake8==6.0.0
+mypy==1.5.1
+
+# For documentation (optional)
+sphinx==7.2.5
