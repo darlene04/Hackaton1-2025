@@ -2,7 +2,8 @@
 
 **Autores:**  
 👨‍💻 [@fdavilaventuro](https://github.com/fdavilaventuro)  
-👩‍💻 [@darlene04](https://github.com/darlene04)  
+👩‍💻 [@darlene04](https://github.com/darlene04) 
+Darlene Escobar Hinojosa :Me gusta trabajar en equipo  
 👩‍💻 [@LetiziaTorres](https://github.com/LetiziaTorres)  
 👨‍💻 [@Crpaolo](https://github.com/Crpaolo)  
 
