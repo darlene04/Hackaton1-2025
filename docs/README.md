@@ -5,7 +5,8 @@
 Hola, soy Fabio y me alegra mucho estar aquí :D
 👩‍💻 [@darlene04](https://github.com/darlene04)  
 👩‍💻 [@LetiziaTorres](https://github.com/LetiziaTorres)  
-👨‍💻 [@Crpaolo](https://github.com/Crpaolo)  
+👨‍💻 [@Crpaolo](https://github.com/Crpaolo)
+Paolo Centeno Rosas : Me gusta ser colaborativo en el mayor trabajo posible , más aún si es en equipo.
 
 ## Características principales ✨
 - ✅ **Evalúa expresiones completas** (ej: `5 + 3 * 2`)
